@@ -93,9 +93,13 @@ img {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
+}
+
+header ol {
+  list-style:none;
 }
 
 header ul {
